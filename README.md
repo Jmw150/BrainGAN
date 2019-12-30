@@ -1,5 +1,5 @@
 ## Contributors
-Prad Ejner, Dan Mohler, Jordan Winkler
+Jordan Winkler, Dan Mohler, Prad Ejner
 
 ## Dataset
 Datasets are located on deepData/StudentData/sb_brain  
